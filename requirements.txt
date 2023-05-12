@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+sklearn
+re
+nltk
+contractions
+inflect
+beautifulsoup4
+xgboost
+scipy
+geopandas
+wordcloud
+pickle
